@@ -19,7 +19,7 @@ In this game, players strategically use a pill to place diverse elements into a 
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/17K3HPTi-ocPxDu6F-V_M9oFoleaFgmXk/view)
+![Game screenshot](https://github.com/Valen-r-s/WebGLGame/assets/137853819/8156b8ba-b22e-4efd-9dba-a260578365f7)
 
 
 ## 👩🏼‍💻Authors
