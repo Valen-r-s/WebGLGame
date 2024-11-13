@@ -22,11 +22,6 @@ In this game, players strategically use a pill to place diverse elements into a 
 ![Game screenshot](https://github.com/Valen-r-s/WebGLGame/assets/137853819/8156b8ba-b22e-4efd-9dba-a260578365f7)
 
 
-## 👩🏼‍💻Authors
-
-- [@Valen-r-s](https://github.com/Valen-r-s)
-
-
 ## 🔗 Links
 [![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)](https://vercel.com/valen-r-s)
 [![GitHub](https://img.shields.io/badge/GitHub-purple?logo=github)](https://github.com/Valen-r-s)
