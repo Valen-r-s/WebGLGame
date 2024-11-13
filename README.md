@@ -23,7 +23,5 @@ In this game, players strategically use a pill to place diverse elements into a 
 
 
 ## 🔗 Links
-[![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)](https://vercel.com/valen-r-s)
-[![GitHub](https://img.shields.io/badge/GitHub-purple?logo=github)](https://github.com/Valen-r-s)
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/valentina-restrepo-0389812a2/)
 
