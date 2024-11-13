@@ -14,9 +14,8 @@ In this game, players strategically use a pill to place diverse elements into a 
 - Maya: Utilized for modeling the architectural design, contributing to the visual richness of the virtual environment.
 
 ## 🎮Game link 
-<a href="https://stunning-cat-b4f1ab.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PickDash%20-%20green?style=for-the-badge&logo=unity&logoColor=black&label=Play&labelColor=snow" alt="Video Game">
-</a>
+[![Video Game](https://img.shields.io/badge/PickDash%20-%20green?style=for-the-badge&logo=unity&logoColor=black&label=Play&labelColor=snow)](https://stunning-cat-b4f1ab.netlify.app/)
+
 
 ## Screenshots
 
