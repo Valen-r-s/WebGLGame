@@ -23,5 +23,6 @@ In this game, players strategically use a pill to place diverse elements into a 
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/valentina-restrepo-0389812a2/)
+[![portfolio](https://img.shields.io/badge/My%20portfolio%20-%20hotpink?style=for-the-badge&logo=kofi&logoColor=black)](https://portfolio-86-seven.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20blue?style=for-the-badge&logo=linkedin&logoColor=snow)](https://www.linkedin.com/in/valentina-restrepo-0389812a2/)
 
